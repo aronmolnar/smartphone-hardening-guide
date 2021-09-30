@@ -11,11 +11,12 @@ I guess you will want to have a smartphone where you can browse the internet, ch
 * **No?** Great! The dirty phone is the only phone you need!
 * **Yes?** You will still need a dirty phone for daily tasks. And if the nation-state is not able to compromise your phone, they will probably plant a bug into your office.
 
-[Start to set up your dirty phone](README.md)
+[Start to set up your dirty phone](README.md).
 
 ## Clean phone
 Your clean phone is the phone where we want to prevent nation-state attacks. Nation-states must somehow identify your phone. They usually do this by your email address or your phone number. This is where we could disrupt the attack chain.
 
+[Start to set up your clean phone](clean_phone.md).
+
 ![Pegasus infection path on iPhones](assets/pegasus_infection.jpg)
 
-[Start to set up your clean phone](clean_phone.md).
