@@ -4,6 +4,8 @@ Its focus is on Android phones, even though most points are also valid for iPhon
 
 Do you have suggestions, improvements, or comments? Contact me at aron@securityguide.me or open an issue at this GitHub project.
 
+![You need privacy](assets/you_need_privacy.jpg)
+
 ## Choosing a phone 
 Make sure you trust your manufacturer and the country it is coming from. Do you think that Google is evil? Then don't take a Google/Motorola (maybe rather take an iPhone then). Do you think the Chinese government will place backdoors into devices? Don't choose Chinese manufacturers (even though most phones will be produced there).
 
