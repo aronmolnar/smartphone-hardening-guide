@@ -2,7 +2,7 @@
 
 **A spyware company hacks phones without user interaction. Can a phone be used without being monitored? Or do we have to accept that we cannot do anything against nation-state attacks? Let's disrupt the attack chain!**
 
-Find some background info in my [blog post](https://securityguide.me/issues/dirty-phone-and-clean-phone).
+Find some background info in my [blog post](https://securityguide.me/issues/how-to-protect-from-pegasus-spyware).
 
 ## Dirty phone
 I guess you will want to have a smartphone where you can browse the internet, chat with family and friends and maybe also play a game from time to time. This is what you do with your "dirty phone". Assume this phone might be compromised at some point in time.  
