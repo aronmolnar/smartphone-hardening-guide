@@ -1,4 +1,4 @@
-# Smartphone Hardening Guide *DRAFT*
+# Smartphone Hardening Guide
 This guide should be a practical guide with concrete recommendations.
 Its focus is on Android phones, even though most points are also valid for iPhones.
 
