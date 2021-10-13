@@ -30,7 +30,9 @@ If you do not want Google to know your contact list, make sure to save contacts 
 Decide whether you want to use the "Find my phone" feature. This may enable anyone with access to your Google account (e.g. if hacked or by law enforcement) to track your location.
 
 ## Reducing the attack surface
-Do not install apps you don't need. Uninstall apps you do not need.
+If attackers try to compromise your phone, they must deliver their exploits to your phone. But not only messaging apps might deliver exploits: telecommunication signals, searching or downloading updates, synchronizing images or contacts, searching or connecting to Bluetooth devices, and fetching weather information. A vulnerability in iOS was disclosed that was triggered when the device connected to a Wi-Fi having a name containing percent symbols.
+
+Disabling apps, features and functionalities reduces your attack surface: Do not install apps you don't need. Uninstall apps you do not need.
 
 Make sure you grant your apps only permissions that seem to make sense (e.g. if you want to share an image in a messenger app, the app will want to access your local files; it does not make sense if a flashlight app asks for your location).
 
