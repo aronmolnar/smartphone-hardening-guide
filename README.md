@@ -13,7 +13,7 @@ Do not choose a smartphone from a brand you don't know or trust. They might be [
 
 Choose a phone that is guaranteed to receive security updates over a long time. The German Federal Office for Information Security (BSI) demands five years. In reality, it's mostly 2 to max. 4 years.
 
-If you are tech-savvy, you might want to have a look at officially supported devices by [LineageOS](https://wiki.lineageos.org/devices/) and replace the manufacturer's Android version. You'll probably have support for a longer time, and you might eliminate some preinstalled shady apps. (Don't get it done in a seedy phone shop.)
+If you are tech-savvy, you might want to have a look at officially supported devices by [LineageOS](https://wiki.lineageos.org/devices/) and replace the manufacturer's Android version. You'll probably have support for a longer time, and you might eliminate some preinstalled shady apps. (Don't get it done in a seedy phone shop.) If you own a recent Google Pixel you can also choose [GrapheneOS](https://grapheneos.org/).
 
 ## Installation
 If possible, you might want to perform a factory reset of your phone before the initial operation. Make sure to regularly install system and app updates.  
@@ -29,6 +29,8 @@ If you do not want Google to know your contact list, make sure to save contacts 
 
 Decide whether you want to use the "Find my phone" feature. This may enable anyone with access to your Google account (e.g. if hacked or by law enforcement) to track your location.
 
+If you use apps that should enjoy extra protection, you can use Android's multi-user functionality to further separate data (e.g. that is stored on the SD card). Make sure to work with "secondary" (unprivileged) users only (an admin user has access to other user's data).
+
 ## Reducing the attack surface
 If attackers try to compromise your phone, they must deliver their exploits to your phone. But not only messaging apps might deliver exploits: telecommunication signals, searching or downloading updates, synchronizing images or contacts, searching or connecting to Bluetooth devices, and fetching weather information. A vulnerability in iOS was disclosed that was triggered when the device connected to a Wi-Fi having a name containing percent symbols.
 
@@ -36,7 +38,7 @@ Disabling apps, features and functionalities reduces your attack surface: Do not
 
 Make sure you grant your apps only permissions that seem to make sense (e.g. if you want to share an image in a messenger app, the app will want to access your local files; it does not make sense if a flashlight app asks for your location).
 
-I recommend using Google Play Store. If you are tech-savvy you can also use FDroid (I'd rather don't).
+I recommend using Google Play Store. If you are tech-savvy and know what you do you can also use F-Droid or Aurora Store.
 
 Never install alternative keyboards if you do not know what you are doing.
 
